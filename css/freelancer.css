@@ -1,3 +1,6 @@
+.project-image {
+  border-radius: 20px;
+}
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
